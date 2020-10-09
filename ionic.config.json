@@ -1,5 +1,7 @@
 {
   "name": "Autostart_App",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
